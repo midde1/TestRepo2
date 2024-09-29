@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'Hello World from micro1 !!!'
+                echo 'Hello World from TestRepo2 !!!'
             }
         }
     }
